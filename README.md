@@ -12,4 +12,4 @@ DiagonalLine: UIView is a @IBDesignable class so that it's rendered in your stor
   * choose the direction (flip)
   * specify the line width
 
-![Image of Diagonal View](https://raw.githubusercontent.com/matvdg/Gradient-View/master/example.png)
+![Image of Diagonal View](https://github.com/matvdg/DiagonalLine/raw/master/diagonal%20line.png)
