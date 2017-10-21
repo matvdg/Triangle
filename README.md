@@ -1,5 +1,5 @@
 # Triangle and DiagonalLine
-Two (really) simple Swift 3 UIView classes with a triangle and a diagonal line rendered and customizable in the storyboard (color, line width, direction)
+Two (really) simple Swift 4 UIView classes with a triangle and a diagonal line rendered and customizable in the storyboard (color, line width, direction)
 
 Triangle: UIView and DiagonalLine: UIView are @IBDesignable classes so that they are rendered in your storyboard, and all their properties are @IBInspectable so that you can customize your triangle and diagonal view inside the storyboard in the Attributes inspector.
 
